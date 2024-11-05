@@ -1,16 +1,13 @@
-# oscapp
+SPARE
+SPARE is an innovative solution developed to help Malagasy households manage energy, water, and waste more sustainably. By providing real-time monitoring and AI-driven insights through a user-friendly mobile application, SPARE enables users to reduce environmental impact and optimize their resource consumption. This project integrates connected modules that track energy and water usage, delivering personalized advice and important notifications to promote responsible and economical consumption. SPARE’s mission is to support environmental sustainability and economic well-being in Madagascar.
 
-A new Flutter project.
+Features
+Real-time monitoring of energy and water usage
+AI-powered analysis for personalized recommendations
+Notifications for efficient resource management
+User-friendly interface designed for Malagasy households
+Contact
+For any inquiries or support, please reach out via:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Phone: +261 34 26 347 26
+Website: https://spare-mg.netlify.app
