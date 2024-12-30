@@ -76,7 +76,7 @@ class _JaugeinstantState extends State<Jaugeinstant>
             builder: (context, plafondProvider, child) {
               return Column(
                 children: [
-                  Text("Maximu: ${plafondProvider.plafond} Wh"),
+                  Text("Maximum: ${plafondProvider.plafond} Wh"),
                 ],
               );
             },

@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Stack(
               children: [
                 const Jaugeinstant(),
-                Positioned(
+                /*Positioned(
                   bottom: 0,
                   left: 30,
                   child: GestureDetector(
@@ -66,7 +66,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       ),
                     ),
                   ),
-                ),
+                )
                 Positioned(
                   bottom: 0,
                   right: 30,
@@ -105,7 +105,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       ),
                     ),
                   ),
-                ),
+                ),*/
               ],
             ),
             SizedBox(

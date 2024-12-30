@@ -306,7 +306,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Text("dont have an account ?"),
+                    Text("Don't have an account ?"),
                     Text(
                       " Sign Up",
                       style: TextStyle(fontWeight: FontWeight.bold),

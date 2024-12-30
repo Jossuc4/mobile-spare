@@ -36,7 +36,7 @@ class _SplashScreenState extends State<SplashScreen>
   }
 
   Future<void> _navigateToHome() async {
-    final socketProvider = Provider.of<SocketProvider>(context, listen: false);
+    /*final socketProvider = Provider.of<SocketProvider>(context, listen: false);
     final fetchDataProvider =
         Provider.of<FetchDataProvider>(context, listen: false);
 
@@ -52,7 +52,7 @@ class _SplashScreenState extends State<SplashScreen>
     await Future.delayed(const Duration(milliseconds: 500));
 
     await Future.delayed(const Duration(milliseconds: 500));
-
+    */
     if (mounted) {
       _controller.forward();
     }

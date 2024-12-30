@@ -89,7 +89,7 @@ class _AppareilScreenState extends State<AppareilScreen> {
                     ],
                   ),
                 ),
-                Positioned(
+                /*Positioned(
                   top: -10,
                   right: 10,
                   child: IconButton(
@@ -105,7 +105,7 @@ class _AppareilScreenState extends State<AppareilScreen> {
                               builder: (context) => const Formulaire()));
                     },
                   ),
-                ),
+                ),*/
               ],
             ),
             const SizedBox(height: 20),
